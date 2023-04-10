@@ -20,16 +20,16 @@ Es indispensable clonar este proyecto en un repositorio privado, para poder trab
 
 ```
 # clona el repositorio del final en tu computadora
-git clone https://github.com/Frontend-III/fe3-final
+git clone https://github.com/LuigiOrvizCiarbis/FRONTEND-III-FINAL.git
 
 # ingresa al directorio del final
-cd fe3-final
+cd FRONTEND-III-FINAL
 
 # elimina los links al repositorio de DH
 git remove remote origin
 
 # Agrega el link al repositorio de tu cuenta de github, reemplaza <tuusuario> por tu cuenta
-git remote add origin https://github.com/<tuusuario>/fe3-final
+git remote add origin https://github.com/<tuusuario>/FRONTEND-III-FINAL
 
 # Sube el template inicial a tu repositorio de github
 git push -u origin main
